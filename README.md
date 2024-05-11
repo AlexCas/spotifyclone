@@ -1,3 +1,5 @@
+## 👀 Project Look
+
 ![just-the-basics](https://cdn.discordapp.com/attachments/477638761740501016/1238824163297202267/image.png?ex=6640b068&is=663f5ee8&hm=1b5fc9cabe04b13578018e04232cfaa4f5383b2e4d0b625d4113dcac80b04e6b&)
 
 ## 🚀 Project Structure
